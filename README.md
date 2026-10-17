@@ -11,9 +11,17 @@ A GNOME Shell extension that replaces the row of quick settings indicators in th
 - **Privacy indicators stay visible.** Camera, microphone, location and screen-sharing / remote-access indicators still show up next to the icon, so you always see when they're in use.
 - Disabling the extension puts the panel back exactly how it was.
 
+## Screenshots
+
+| Camera in use | Microphone in use | Location in use |
+|:---:|:---:|:---:|
+| ![Camera indicator](camera.png) | ![Microphone indicator](microphone.png) | ![Location indicator](location.png) |
+
+> The location indicator only appears while an app is actively using your location, not whenever the Location toggle is on. This matches stock GNOME behavior.
+
 ## Requirements
 
-- GNOME Shell 50
+- GNOME Shell 45–50
 
 ## Installation
 

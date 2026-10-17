@@ -2,7 +2,7 @@
   "uuid": "quicksettings-icon@yousif-gh.dev",
   "name": "Quick Settings Icon",
   "description": "Replaces the quick settings indicators with a single macOS-style Control Center icon.",
-  "shell-version": ["50"],
+  "shell-version": ["45", "46", "47", "48", "49", "50"],
   "session-modes": ["user", "unlock-dialog"],
   "version": 1
 }
